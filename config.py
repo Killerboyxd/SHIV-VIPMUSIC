@@ -56,11 +56,11 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/vip_creators"
-)  # Example:- https://t.me/vip_creators
+    "SUPPORT_CHANNEL", "https://t.me/ll_SABKA_BHAI_KILLER_ll"
+)  # Example:- https://t.me/ll_SABKA_BHAI_KILLER_ll
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/tg_friendss"
-)  # Example:- https://t.me/tg_friendss
+    "SUPPORT_GROUP", "https://t.me/RONNY_KI_DUNIYA"
+)  # Example:- https://t.me/RONNY_KI_DUNIYA
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
@@ -159,11 +159,11 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/b2b4fee33e6c7d2a5651a.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/1a2db3329d7a3b35d5ef1.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/b2b4fee33e6c7d2a5651a.jpg",
+    "https://telegra.ph/file/1a2db3329d7a3b35d5ef1.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
